@@ -1,4 +1,4 @@
-### Olá, Eu sou o Rodrigo Oliveira, bem vindo ao meu repositório!
+### Olá, Me chamo Rodrigo Oliveira, bem vindo ao meu repositório!
 
 
 - 🔭 Hoje trabalho como Analista de Suporte Pleno ...
