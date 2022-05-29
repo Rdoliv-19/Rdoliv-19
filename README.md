@@ -1,8 +1,8 @@
 ### Olá, Me chamo Rodrigo Oliveira, bem vindo ao meu repositório!
 
 
-- 🔭 Hoje trabalho como Analista de Suporte Pleno ...
-- 🌱 Estou estudando Frontend ...
+- 🔭 Hoje trabalho como Analista de Suporte Pleno
+- 🌱 Estou estudando Frontend
 
 <div align="center">
   <a href="https://github.com/Rdoliv-19">
