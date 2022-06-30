@@ -1,4 +1,4 @@
-### Olá, sou o Rodrigo Oliveira, bem vindo ao meu repositório!
+### Olá, sou o Rodrigo Oliveira, bem vindo ao meu portifólio!
 
 #### Dev front-end React (HTML, CSS, JavaScript)
 Sou formado em redes de computadores, trabalho como analista de suporte, curioso e entusiasta de tecnologia desde sempre.  
