@@ -1,11 +1,18 @@
 ### Olá, sou o Rodrigo Oliveira, bem vindo ao meu portfólio!
 
-#### Dev front-end React (HTML, CSS, JavaScript)
-Sou formado em redes de computadores, trabalho como analista de suporte, curioso e entusiasta de tecnologia desde sempre.  
+Sou graduado em redes de computadores, sendo minhas ultimas experiências como analista de suporte e líder de equipe. Em minhas ultimas
+experiências desenvolvi grande capacidade analítica, raciocínio lógico para resolução de problemas, habilidades que vem sendo fundamentais
+para avançar como desenvolvedor.
 
-Me encontre no [Linkedin](https://www.linkedin.com/in/rodrigo-dev/) 
+Atualmente estou migrando para a área de desenvolvimento Front-end, sendo que em minhas horas livres me dedico ao máximo ao continuo aprendizado 
+conhecendo novas tecnologias e consolidando-as nos meus projetos, posso afirmar que profissionalmente estou redescobrindo uma nova paixão e vocação!
 
-Email: digo.s.oliv@gmail.com
+- 🔍 Atualmente aberto a novas oportunidades.
+
+- 📰 Conhecimento nas seguintes Tecnologias: JavaScript, Css, Html, Bootstrap.
+
+- 📡Busco colaborar com projetos Front-end.
+  
 
 <div align="center">
   <a href="https://github.com/Rdoliv-19">
