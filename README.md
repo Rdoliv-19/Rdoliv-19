@@ -1,8 +1,9 @@
 ### Olá, sou o Rodrigo Oliveira, bem vindo ao meu portfólio!
 
 Sou graduado em redes de computadores, sendo minhas ultimas experiências como analista de suporte e líder de equipe. Em minhas ultimas
-experiências desenvolvi grande capacidade analítica, raciocínio lógico para resolução de problemas, habilidades que vem sendo fundamentais
-para avançar como desenvolvedor.
+experiências desenvolvi grande capacidade analítica, raciocínio lógico e contato com o cliente para resolução de problemas, 
+habilidades que vem sendo fundamentais para avançar como desenvolvedor.
+
 
 Atualmente estou migrando para a área de desenvolvimento Front-end, sendo que em minhas horas livres me dedico ao máximo ao continuo aprendizado 
 conhecendo novas tecnologias e consolidando-as nos meus projetos, posso afirmar que profissionalmente estou redescobrindo uma nova paixão e vocação!
@@ -26,6 +27,7 @@ conhecendo novas tecnologias e consolidando-as nos meus projetos, posso afirmar 
     <img align="center" alt="Rodrigo-Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Rodrigo-HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Rodrigo-CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Rodrigo-CSS" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png">
   </div>
   </div>
     
