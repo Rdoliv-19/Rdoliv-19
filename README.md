@@ -36,6 +36,8 @@ conhecendo novas tecnologias e consolidando-as nos meus projetos, posso afirmar 
     
 <a href="https://www.linkedin.com/in/rodrigo-dev/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>      
-<a href = "mailto:digo.s.oliv@gmail.com@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:digo.s.oliv@gmail.com@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+<a href = "https://wa.me/5511940013434"><img src="https://github.com/Rdoliv-19/Rdoliv-19/blob/main/whatsapp.png"></a>
+</a>
   </div>
   
