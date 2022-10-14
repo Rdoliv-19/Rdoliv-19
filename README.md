@@ -5,12 +5,12 @@ experiências desenvolvi grande capacidade analítica, raciocínio lógico e con
 habilidades que vem sendo fundamentais para avançar como desenvolvedor.
 
 
-Atualmente estou migrando para a área de desenvolvimento Front-end, sendo que em minhas horas livres me dedico ao máximo ao continuo aprendizado 
+Atualmente estou migrando para a área de desenvolvimento Front-end, sendo que em minhas horas livres me dedico ao máximo ao contínuo aprendizado 
 conhecendo novas tecnologias e consolidando-as nos meus projetos, posso afirmar que profissionalmente estou redescobrindo uma nova paixão e vocação!
 
 - 🔍 Atualmente aberto a novas oportunidades.
 
-- 📰 Conhecimento nas seguintes Tecnologias: JavaScript, Css, Html, Bootstrap.
+- 📰 Conhecimento nas seguintes Tecnologias: JavaScript, HTML, CSS, Bootstrap.
 
 - 📡Busco colaborar com projetos Front-end.
   
