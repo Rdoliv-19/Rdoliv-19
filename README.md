@@ -15,10 +15,9 @@ conhecendo novas tecnologias e consolidando-as nos meus projetos, posso afirmar 
 - 📡Busco colaborar com projetos Front-end.
   
 
-<div align="center">
-  <a href="https://github.com/Rdoliv-19">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rdoliv-19&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdoliv-19&layout=compact&langs_count=7&theme=dark"/>
+<div align='center'>
+  <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=rdoliv-19&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
+  <img height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdoliv-19&layout=compact&langs_count=16&theme=outrun"/>
 </div>
   
   ## :space_invader: Tecnologias:
