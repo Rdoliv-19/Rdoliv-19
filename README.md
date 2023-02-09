@@ -1,18 +1,13 @@
 ### Olá, sou o Rodrigo Oliveira, bem vindo ao meu portfólio!
 
 Sou graduado em redes de computadores, sendo minhas ultimas experiências como analista de suporte e líder de equipe. Em minhas ultimas
-experiências desenvolvi grande capacidade analítica, raciocínio lógico e contato com o cliente para resolução de problemas, 
-habilidades que vem sendo fundamentais para avançar como desenvolvedor.
+experiências desenvolvi grande capacidade analítica, raciocínio lógico e contato com o cliente para resolução de problemas.
 
 
-Atualmente estou migrando para a área de desenvolvimento Front-end, sendo que em minhas horas livres me dedico ao máximo ao contínuo aprendizado 
-conhecendo novas tecnologias e consolidando-as nos meus projetos, posso afirmar que profissionalmente estou redescobrindo uma nova paixão e vocação!
-
-- 🔍 Atualmente aberto a novas oportunidades.
+Este repositório foi criado com o objetivo de documentar minha prática com projetos de FrontEnd.
 
 - 📰 Conhecimento nas seguintes Tecnologias: JavaScript, HTML, CSS, Bootstrap.
 
-- 📡Busco colaborar com projetos Front-end.
   
 
 <div align='center'>
